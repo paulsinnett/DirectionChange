@@ -1,6 +1,6 @@
 # Direction change
 
-A small project to demonstrate a method for pursuing a target 2D space. (It should also work in 3D.)
+A small project to demonstrate a method for pursuing a target in 2D space. (It should also work in 3D.)
 
 Move with WASD or arrow keys, or a connected game pad. The sphere should follow by accelerating in the direction of the target. You can modify the maximum acceleration and maximum speed.
 
